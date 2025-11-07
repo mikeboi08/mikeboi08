@@ -1,9 +1,11 @@
 
  <img width="1048" height="285" alt="githubBanner 1" src="https://github.com/user-attachments/assets/ea454b40-2577-40af-87fb-5af53abd2437" />
  ## Hi! I'm Micah
-
  --- 
- ### My latest adventure has been 
+
+ ### My latest adventure has been my business! 
+ 
+ In March of 2025, I founded Everforge LLC, a company where I use software to solve problems for small businesses
 
 <!--
 **mikeboi08/mikeboi08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
