@@ -1,5 +1,6 @@
- <img width="1024" height="1024" alt="githubBanner" src="https://github.com/user-attachments/assets/617d2757-499b-4d4d-87f4-3cd86ec3d8c1" />
- ## Hi! Im Micah
+
+ <img width="1048" height="285" alt="githubBanner 1" src="https://github.com/user-attachments/assets/ea454b40-2577-40af-87fb-5af53abd2437" />
+ ## Hi! I'm Micah
 
  --- 
  ### My latest adventure has been 
