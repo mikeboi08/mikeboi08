@@ -1,6 +1,8 @@
+ <img width="1024" height="1024" alt="githubBanner" src="https://github.com/user-attachments/assets/617d2757-499b-4d4d-87f4-3cd86ec3d8c1" />
  ## Hi! Im Micah
+
  --- 
- 
+ ### My latest adventure has been 
 
 <!--
 **mikeboi08/mikeboi08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
