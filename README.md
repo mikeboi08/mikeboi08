@@ -7,6 +7,18 @@
  
  In March of 2025, I founded Everforge LLC, a company where I use software to solve problems for small businesses
 
+
+## What I'm Working On
+- 🧠 Building data-driven apps that connect Airtable, FileMaker, and iOS
+- 🤖 Automating workflows using Python, Selenium, and AWS Lambda
+- 🎓 Teaching coding and digital design at local youth programs
+
+
+## Tech Stack
+**Languages:** Python | JavaScript | Swift | TypeScript  
+**Frameworks:** React | SwiftUI | Node.js | AWS Lambda  
+**Tools:** Airtable API | FileMaker Server | Firebase | Git | VS Code
+
 <!--
 **mikeboi08/mikeboi08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
